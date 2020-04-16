@@ -1,0 +1,354 @@
+[08:18:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:18:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:18:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[08:18:34] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[08:18:34] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_211, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_211
+[08:18:35] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[08:18:35] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[08:18:35] [main/INFO] [FML]: Searching C:\Users\motof\Desktop\server clean files\.\mods for mods
+[08:18:35] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _aaspongeforge-1.12.2-2838-7.2.1-RC4011.jar
+[08:18:35] [main/WARN] [FML]: The coremod portablejim.additionalresources.Ar_CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Apotheosis-1.12.2-1.12.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod ApotheosisCore (shadows.ApotheosisCore) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.2.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-2.0.0.2.b166.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[08:18:35] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[08:18:35] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.9_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.1.30.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerCore-1.12.2-2.0.6.13.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[08:18:35] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.12.2-1.7.5.192.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-178.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[08:18:35] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.12.2-4.2.7.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[08:18:35] [main/WARN] [FML]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:18:35] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[08:18:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:18:35] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[08:18:35] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/motof/Desktop/server%20clean%20files/./mods/_aaspongeforge-1.12.2-2838-7.2.1-RC4011.jar Service=LaunchWrapper Env=SERVER
+[08:18:35] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+[08:18:35] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[08:18:36] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[08:18:36] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
+[08:18:36] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[08:18:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:18:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:18:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:18:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [Aroma1997Core]: Finished data injection.
+[08:18:37] [main/INFO] [Aroma1997Core]: Finished data injection.
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:37] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[08:18:37] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[08:18:37] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[08:18:37] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5d767218
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
+[08:18:37] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[08:18:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[08:18:38] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[08:18:38] [main/INFO] [Astral Core]: [AstralTransformer] Found 0 Transformers! Trying to recover with direct references...
+[08:18:38] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [BiomeTweakerCore]: Beginning early config parsing...
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:18:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:18:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[08:18:38] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[08:18:39] [main/INFO] [Phosphor Plugin]: Sponge has been detected on the classpath! Enabling Sponge specific patches...
+[08:18:39] [main/WARN] [Phosphor Plugin]: We cannot currently detect if you are using Sponge's async lighting patch. If you have not already done so, please disable it in your configuration file for SpongeForge or you will run into issues.
+[08:18:39] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[08:18:39] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[08:18:39] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[08:18:39] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:39] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[08:18:39] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[08:18:39] [main/INFO] [neid]: Patching class: "net.minecraft.block.Block" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[08:18:39] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.ru.fewizz.neid.asm.Transformer' was detected and will no longer process meta class data
+[08:18:39] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.randomthings.asm.ClassTransformer' was detected and will no longer process meta class data
+[08:18:39] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[08:18:39] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[08:18:39] [main/INFO] [Apotheosis : Core]: Transforming ContainerRepair...
+[08:18:39] [main/INFO] [Apotheosis : Core]: Successfully removed the anvil level cap.
+[08:18:39] [main/INFO] [Apotheosis : Core]: Replaced ContainerRepair Enchantment#getMaxLevel #1.
+[08:18:39] [main/INFO] [Apotheosis : Core]: Replaced ContainerRepair Enchantment#getMaxLevel #2.
+[08:18:39] [main/INFO] [Apotheosis : Core]: Successfully transformed ContainerRepair
+[08:18:39] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[08:18:39] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[08:18:39] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:39] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:39] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Apotheosis : Core]: Transforming BlockBed...
+[08:18:40] [main/INFO] [Apotheosis : Core]: Successfully transformed BlockBed
+[08:18:40] [main/WARN] [mixin]: @Mixin target net/minecraft/block/state/BlockStateContainer$StateImplementation is public in mixins.common.api.json:mcp.block.state.StateImplementationMixin_API and should be specified in value
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[08:18:40] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[08:18:40] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[08:18:40] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.com.zeitheron.hammercore.asm.HammerCoreTransformer' was detected and will no longer process meta class data
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[08:18:40] [main/INFO] [Apotheosis : Core]: Transforming EntityLivingBase...
+[08:18:40] [main/INFO] [Apotheosis : Core]: Successfully transformed EntityLivingBase
+[08:18:40] [main/INFO] [OpenComputers]: Successfully patched net/minecraft/entity/EntityLiving.recreateLeash.
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[08:18:40] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[08:18:40] [main/INFO] [Apotheosis : Core]: Transforming Item...
+[08:18:40] [main/INFO] [Apotheosis : Core]: Successfully transformed Item
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[08:18:40] [main/INFO] [Apotheosis : Core]: Transforming PotionEffect...
+[08:18:40] [main/INFO] [Apotheosis : Core]: Successfully transformed PotionEffect
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[08:18:40] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[08:18:40] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:40] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[08:18:40] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[08:18:40] [main/INFO] [BiomeTweakerCore]: Attempting to patch class net.minecraft.world.biome.Biome...
+[08:18:40] [main/INFO] [BiomeTweakerCore]: Sucessfully patched net.minecraft.world.biome.Biome! 0 patches were applied.
+[08:18:40] [main/INFO] [Apotheosis : Core]: Transforming WorldGenDungeons...
+[08:18:40] [main/INFO] [Apotheosis : Core]: Successfully transformed WorldGenDungeons
+[08:18:41] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[08:18:41] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[08:18:41] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[08:18:41] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[08:18:41] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:41] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[08:18:41] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:41] [main/WARN] [mixin]: @Mixin target net/minecraft/server/management/PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.PlayerProfileCache_ProfileEntryAccessor and should be specified in value
+[08:18:42] [main/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
+[08:18:42] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
+[08:18:42] [main/INFO] [Apotheosis : Core]: Transforming EnchantmentHelper...
+[08:18:42] [main/INFO] [Apotheosis : Core]: Successfully transformed EnchantmentHelper.calcItemStackEnchantability
+[08:18:42] [main/INFO] [Apotheosis : Core]: Successfully transformed EnchantmentHelper.getEnchantmentDatas
+[08:18:42] [main/INFO] [Apotheosis : Core]: [Deadly] Transforming EnchantmentHelper...
+[08:18:42] [main/INFO] [Apotheosis : Core]: [Deadly] Transforming EnchantmentHelper...
+[08:18:42] [main/INFO] [Apotheosis : Core]: [Deadly] Successfully transformed EnchantmentHelper
+[08:18:42] [main/INFO] [Apotheosis : Core]: Successfully transformed EnchantmentHelper
+[08:18:42] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[08:18:42] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[08:18:42] [main/INFO] [Quark ASM]: Located Method, patching...
+[08:18:42] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[08:18:42] [main/INFO] [Quark ASM]: Patch result: true
+[08:18:42] [main/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[08:18:42] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[08:18:42] [main/INFO] [BetterFps]: Patching math utils with "RIVENS" algorithm
+[08:18:42] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.MathTransformer' was detected and will no longer process meta class data
+[08:18:42] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[08:18:42] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[08:18:42] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[08:18:42] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[08:18:42] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[08:18:42] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[08:18:42] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_189509_E in mixins.common.core.json:world.WorldMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector onUpdateTileEntities(Lnet/minecraft/util/ITickable;)V in mixins.common.core.json:world.WorldMixin failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap mixins.common.refmap.json
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:400)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1280)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1042)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:395)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:320)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.getDeclaredMethods0(Native Method)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.privateGetMethodRecursive(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.getMethod0(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.Class.getMethod(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:132)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70)
+[08:18:42] [main/INFO] [STDERR]: [org.spongepowered.asm.mixin.transformer.MixinProcessor:applyMixins:362]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: java.lang.reflect.InvocationTargetException
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:main:34]: 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: Caused by: java.lang.NoClassDefFoundError: net/minecraft/world/World
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Class.getDeclaredMethods0(Native Method)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Class.privateGetMethodRecursive(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Class.getMethod0(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at java.lang.Class.getMethod(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:132)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[08:18:42] [main/INFO] [STDERR]: [net.minecraftforge.fml.relauncher.ServerLaunchWrapper:run:75]: 	... 6 more
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.ClassNotFoundException: net.minecraft.world.World
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	... 13 more
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:364)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:191)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:178)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	... 15 more
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector onUpdateTileEntities(Lnet/minecraft/util/ITickable;)V in mixins.common.core.json:world.WorldMixin failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap mixins.common.refmap.json
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:400)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1280)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1042)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:395)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:320)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:345)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:570)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:351)
+[08:18:42] [main/INFO] [STDERR]: [java.lang.Throwable:printEnclosedStackTrace:-1]: 	... 20 more
